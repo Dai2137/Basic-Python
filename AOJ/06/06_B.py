@@ -8,4 +8,4 @@ for k in range(n):
 for i, row in enumerate(cards):
   for j, elem in enumerate(row):
     if cards[i][j] == False:
-      print(pattern[i], j+1)
+      print(pattern[i], j+1) 

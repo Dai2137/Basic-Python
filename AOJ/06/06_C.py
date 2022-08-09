@@ -10,4 +10,4 @@ for i in range(4):
   for j in range(3):
     print('', *count[i][j])
   if i != 3:
-    print('#' *20)
+    print('#' *20) #count出力
